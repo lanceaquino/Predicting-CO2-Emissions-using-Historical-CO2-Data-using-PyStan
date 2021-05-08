@@ -1,1 +1,1 @@
-# Predicting-CO2-Emissions-using-Historical-CO2-Data-using-PyStan
+# Predicting CO2 Emissions Using Historical CO2 Data with PySta package 
